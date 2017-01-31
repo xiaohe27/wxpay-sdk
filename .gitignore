@@ -2,3 +2,8 @@
 /web/WEB-INF
 
 *.p12
+
+.idea
+*.bak
+*~
+target
